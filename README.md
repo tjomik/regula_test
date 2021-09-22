@@ -6,7 +6,7 @@ PostgreSQL: <i><b>5432</b></i>
 ## Authorization
 
 <b>Header</b> <br>
-Authorization: Baerer {JWT_ACCESS_TOKEN}
+Authorization: Bearer {JWT_ACCESS_TOKEN}
 
 ## Methods
 
