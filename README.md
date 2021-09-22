@@ -1,9 +1,9 @@
-##Ports
+## Ports
 Django: <i><b>8000</b></i> <br>
 PostgreSQL: <i><b>5432</b></i>
 
 
-##Authorization
+## Authorization
 
 <b>Header</b> <br>
 Authorization: Baerer {JWT_ACCESS_TOKEN}
@@ -43,6 +43,6 @@ Authorization: Baerer {JWT_ACCESS_TOKEN}
     }
   
 
- *Authorization required
+ <i>*Authorization required</i>
 
 
